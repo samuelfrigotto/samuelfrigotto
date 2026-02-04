@@ -148,7 +148,7 @@ Sistema de detecção de ameaças:
 ## 💼 Experiência Profissional
 
 **Desenvolvedor Full-Stack Autônomo**  
-`2024 - Presente`
+`2025 - Presente`
 - Desenvolvimento de aplicativos mobile Android com publicação na Play Store
 - Criação de sistemas web com Angular, React e Node.js
 - Configuração e gerenciamento de VPS para deploy de aplicações
@@ -156,7 +156,7 @@ Sistema de detecção de ameaças:
 - Desenvolvimento em equipe com Git e boas práticas de versionamento
 
 **Desenvolvedor Full-Stack** @ CTA Sistemas  
-`Maio 2024 - Dezembro 2024`
+`Maio 2025 - Dezembro 2025`
 - Desenvolvimento de novas funcionalidades em Angular e Node.js
 - Implementação de integrações com sistemas externos
 - Suporte técnico e resolução de problemas em produção
