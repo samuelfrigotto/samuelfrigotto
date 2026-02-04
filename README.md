@@ -123,7 +123,7 @@ Smart notes para Dota 2:
 - Estatísticas e análises
 - Histórico de performances
 
-**Stack:** React, Node.js, PostgreSQL
+**Stack:** Angular v17, Node.js, PostgreSQL
 
 </td>
 <td width="50%">
